@@ -15,8 +15,10 @@
 - ⚡ Additional info:    **Drummer and Drone Pilot**
 
 - ⭐ Languages and Tools:
-FrontEnd: React | Redux | ReactNative | Bootstrap | CSS
+FrontEnd: React | Redux | Vite | Bootstrap | CSS | Figma
+
 BackEnd: Node | Express | JavaScript
+
 Database: PostgreSQL | Sequelize
 
 <h3 align="left">Connect with me:</h3>
