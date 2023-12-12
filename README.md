@@ -15,6 +15,7 @@
 - ⚡ Additional info:    **Drummer and Drone Pilot**
 
 - ⭐ Languages and Tools:
+
 FrontEnd: React | Redux | Vite | Bootstrap | CSS | Figma
 
 BackEnd: Node | Express | JavaScript
