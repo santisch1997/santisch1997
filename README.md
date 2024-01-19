@@ -6,9 +6,9 @@
 
 ✅I am passionate about working on user experience. That is why I also trained as a UX/UI designer.
 
-- 🌱 I’m currently learning: **Typescript,Figma,React Native**
+- 🌱 I’m currently learning: **Typescript,React Native, graphql**
 
-- 💬 Ask me about: **React, Redux, UX/UI.**
+- 💬 Ask me about: **React, Redux, UX/UI and Figma.**
 
 - 📫 How to reach me: **https://linktr.ee/SantiagoScheuermann**
 
