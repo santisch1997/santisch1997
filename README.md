@@ -4,7 +4,7 @@
 
 🙋‍♂️I have liked technology since I was a child, I consider myself someone very creative, curious and hard-working. I really enjoy the process of creating solutions from programming and web design.
 
-✅I am passionate about working on user experience. That is why I also trained as a UX/UI designer.
+✅I am passionate about working on user experience and crafting modern and user-friendly interfaces. That is why Iim also a UX/UI designer.
 
 - 🌱 I’m currently learning: **Typescript,React Native, graphql**
 
