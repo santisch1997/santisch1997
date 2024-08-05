@@ -8,15 +8,19 @@
 
 - 🌱 I’m currently learning: **Typescript,React Native, graphql**
 
-- 💬 Ask me about: **React, Redux, UX/UI and Figma.**
+- 💬 Ask me about: **React, HOTM, CSS, UX/UI and Figma.**
 
 - 📫 How to reach me: **https://linktr.ee/SantiagoScheuermann**
+
+- 👋 My personal website: https://chule-x.vercel.app/
 
 - ⚡ Additional info:    **Drummer and Drone Pilot**
 
 - ⭐ Languages and Tools:
 
-FrontEnd: React | Redux | Vite | Bootstrap | CSS | Figma
+FrontEnd: HTML | CSS | JS | React | Redux | Styled Components | Bootstrap | Worpress
+
+UX/UI: Figma | Wix Studio | Whimsical | Optimal Workshop | Miro
 
 BackEnd: Node | Express | JavaScript
 
