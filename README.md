@@ -2,9 +2,12 @@
 <h3 align="center">UX/UI Designer with Front-end background</h3>
 
 
-🙋‍♂️I have liked technology since I was a child, I consider myself someone very creative, curious and hard-working. I really enjoy the process of creating solutions from programming and web design.
+🙋‍♂️UX/UI Designer focused on creating clear, functional, and user-centered digital experiences. I specialize in analyzing user flows, identifying friction points, and transforming business needs into intuitive and scalable solutions. I work by combining research, strategy, and interface design, integrating AI tools to optimize processes, iterate faster, and improve decision-making. Background in Front-End development, currently focused 100% on UX/UI and Product Design.
 
-✅I am passionate about working on user experience and crafting modern and user-friendly interfaces. That is why Iim also a UX/UI designer.
+
+I am passionate about technology and design in all its forms, from digital products to everyday experiences. I am motivated by the impact that thoughtful design solutions can have on people’s lives and communities.
+
+
 
 
 
